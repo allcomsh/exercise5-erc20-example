@@ -9,6 +9,15 @@ This is the exercise for ERC20 with ink!.
 cargo +nightly contract build
 ```
 
+## Test
+
+```sh
+cargo +nightly test
+```
+
+The test results should be:
+![Test results Picture](https://github.com/IanGYan/exercise5-erc20-example/blob/main/test-result.jpg)
+
 ## Deployment
 
 Use [Canvas UI](https://paritytech.github.io/canvas-ui/#/) to deply the ERC20 contract and test.
