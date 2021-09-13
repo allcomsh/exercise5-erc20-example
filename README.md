@@ -16,7 +16,7 @@ cargo +nightly test
 ```
 
 The test results should be:
-![Test results Picture](https://github.com/IanGYan/exercise5-erc20-example/blob/main/test-result.jpg)
+![Test results Picture](https://github.com/IanGYan/exercise5-erc20-example/blob/main/test-result.jpeg)
 
 ## Deployment
 
