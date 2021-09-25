@@ -16,7 +16,7 @@ cargo +nightly test
 ```
 
 The test results should be:
-![Test results Picture](https://github.com/IanGYan/exercise5-erc20-example/blob/main/test-result.jpeg)
+![Test results Picture](https://github.com/allcomsh/exercise5-erc20-example/blob/main/test-result.jpeg)
 
 ## Deployment
 
@@ -26,21 +26,21 @@ Please refer to [Substrate Developer Hub](https://substrate.dev/substrate-contra
 Here're some of the deployment pictures with Canvas UI.
 
 1) Deployed
-![Deployed](https://github.com/IanGYan/exercise5-erc20-example/blob/main/res/d1.jpg)
+![Deployed](https://github.com/allcomsh/exercise5-erc20-example/blob/main/res/d1.jpg)
 
 2) Instantiated
-![Instantiated 1](https://github.com/IanGYan/exercise5-erc20-example/blob/main/res/d4.jpg)
-![Instantiated 2](https://github.com/IanGYan/exercise5-erc20-example/blob/main/res/d2.jpg)
+![Instantiated 1](https://github.com/allcomsh/exercise5-erc20-example/blob/main/res/d4.jpg)
+![Instantiated 2](https://github.com/allcomsh/exercise5-erc20-example/blob/main/res/d2.jpg)
 
 3) Approve(Alice -> Bob)
-![Approve 1](https://github.com/IanGYan/exercise5-erc20-example/blob/main/res/d6.jpg)
+![Approve 1](https://github.com/allcomsh/exercise5-erc20-example/blob/main/res/d6.jpg)
 
 4) Transfer(Alice -> Ferdie)
-![Transfer](https://github.com/IanGYan/exercise5-erc20-example/blob/main/res/d7.jpg)
+![Transfer](https://github.com/allcomsh/exercise5-erc20-example/blob/main/res/d7.jpg)
 
 5) Transfer_from(Bob: Alice -> Charlie)
-![Transfer_from 1](https://github.com/IanGYan/exercise5-erc20-example/blob/main/res/d8.jpg)
-![Transfer_from 2](https://github.com/IanGYan/exercise5-erc20-example/blob/main/res/d9.jpg)
+![Transfer_from 1](https://github.com/allcomsh/exercise5-erc20-example/blob/main/res/d8.jpg)
+![Transfer_from 2](https://github.com/allcomsh/exercise5-erc20-example/blob/main/res/d9.jpg)
 
 6) The results of calls
-![results](https://github.com/IanGYan/exercise5-erc20-example/blob/main/res/dx.jpg)
+![results](https://github.com/allcomsh/exercise5-erc20-example/blob/main/res/dx.jpg)
